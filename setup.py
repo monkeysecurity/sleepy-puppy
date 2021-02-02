@@ -18,7 +18,7 @@ setup(
         'Flask-SQLAlchemy==1.0',
         'Flask-Script==0.6.3',
         'Flask-WTF==0.9.4',
-        'Pillow==2.7.0',
+        'Pillow==7.1.0',
         'SQLAlchemy==0.9.3',
         'bcrypt==1.1.1',
         'gunicorn==19.0.0',
