@@ -9,7 +9,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'Flask==0.10.1',
+        'Flask==1.0',
         'Flask-Admin==1.0.7',
         'Flask-Bcrypt==0.5.2',
         'Flask-Login==0.2.9',
